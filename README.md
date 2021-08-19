@@ -1,4 +1,5 @@
-Hi there 👋
+Hi there 👋 My name is Martin Scherer Fantinelli, I currently live in Porto Alegre, Brazil and I'm a Software Engineer student.
+I like to describe myself as a very curious person.
 
 - 🌱 I’m currently learning Javascript
 - 🦉 My goal is to become a great polymath
