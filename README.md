@@ -36,3 +36,4 @@ I like to describe myself as a very curious person.
 
 🦉 Learning is the only thing the mind never exhausts, never fears, and never regrets. -  Leonardo da Vinci
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinfantinelli&show_icons=true&theme=tokyonight)
