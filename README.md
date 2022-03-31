@@ -43,7 +43,7 @@ I like to describe myself as a very curious person.
 - ⚡ Fun fact: The Firefox logo isn't a fox, is a red panda.
 
 
-🦉** Learning is the only thing the mind never exhausts, never fears, and never regrets.** -  Leonardo da Vinci
+🦉**Learning is the only thing the mind never exhausts, never fears, and never regrets.** -  Leonardo da Vinci
     
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinfantinelli&show_icons=true&theme=tokyonight)
