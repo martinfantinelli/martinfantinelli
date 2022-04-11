@@ -62,3 +62,6 @@ I like to describe myself as a very curious person.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martinfantinelli&repo=APIexpress&theme=tokyonight" />
 </a>
 
+
+![snake gif](https://github.com/martinfantinelli/martinfantinelli/blob/output/github-contribution-grid-snake.svg)
+
