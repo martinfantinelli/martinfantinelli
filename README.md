@@ -51,16 +51,7 @@ I like to describe myself as a very curious person.
     
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinfantinelli&theme=tokyonight&show_owner" alt="martinfantinelli" /></p>
     
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinfantinelli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="martinfantinelli" /></p>
-    
-    
-<a href="https://github.com/martinfantinelli/jira_clone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martinfantinelli&repo=jira_clone&theme=tokyonight" />
-</a>
-    
-<a href="https://github.com/martinfantinelli/APIexpress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martinfantinelli&repo=APIexpress&theme=tokyonight" />
-</a>
+
 
 
 ![snake gif](https://github.com/martinfantinelli/martinfantinelli/blob/output/github-contribution-grid-snake.svg)
