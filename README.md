@@ -36,7 +36,7 @@ I like to describe myself as a very curious person.
 
 
 ## Curiosities about me
-- 🌱 I’m currently learning **Javascript , Java and React**. 
+- 🌱 I’m currently learning **everything**. 
 - 📫 How to reach me: **martinsfantinelli@gmail.com**
 - 🏋️ I really like to practice sports at all, since 2004.
 - 💻 I'm studying Software Engineering at PUCRS.
