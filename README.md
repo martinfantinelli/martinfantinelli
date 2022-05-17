@@ -20,6 +20,8 @@ My name is Martin Scherer Fantinelli, a full-stack developer. I currently live i
 I like to describe myself as a very curious person.
 
 
+
+
 ## Detailed information
 
 * **Name**: Martin Scherer Fantinelli
@@ -55,4 +57,6 @@ I like to describe myself as a very curious person.
 
 
 ![snake gif](https://github.com/martinfantinelli/martinfantinelli/blob/output/github-contribution-grid-snake.svg)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="50%">
 
