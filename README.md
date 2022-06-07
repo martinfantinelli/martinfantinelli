@@ -17,7 +17,7 @@
 
 <h2>👋 &nbsp Hey there! I'm Martin </h2>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=6421A9&height=45&lines=Full-Stack+web+and+app+developer;1%2B+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=6421A9&height=45&lines=Full-Stack+Web+Developer;1%2B+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 My name is Martin Scherer Fantinelli, a full-stack developer. I currently live in Porto Alegre, Brazil.
 I like to describe myself as a very curious person.
@@ -28,7 +28,7 @@ I like to describe myself as a very curious person.
 ## Detailed information
 
 * **Name**: Martin Scherer Fantinelli
-* **Age**: 21
+* **Age**: 22
 * **Living in**: Porto Alegre - RS, Brazil
 * **Stack**: Java - Spring Boot - Javascript - React - MySQL
 
