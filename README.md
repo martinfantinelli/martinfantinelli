@@ -28,7 +28,7 @@ I like to describe myself as a very curious person.
 ## Detailed information
 
 * **Name**: Martin Scherer Fantinelli
-* **Age**: 22
+* **Age**: 23
 * **Living in**: Porto Alegre - RS, Brazil
 * **Stack**: Java - Spring Boot - Javascript - React - MySQL
 
