@@ -28,9 +28,9 @@ I like to describe myself as a very curious person.
 ## Detailed information
 
 * **Name**: Martin Scherer Fantinelli
-* **Age**: 23
+* **Age**: 25
 * **Living in**: Porto Alegre - RS, Brazil
-* **Stack**: Java - Spring Boot - Javascript - React - MySQL
+* **Stack**: Java - Spring Boot - NodeJS - Typescript - MySQL
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40" />
@@ -42,7 +42,7 @@ I like to describe myself as a very curious person.
 
 
 ## Curiosities about me
-- 🌱 I’m currently learning **everything**. 
+- 🌱 I’m currently learning **Rust**. 
 - 📫 How to reach me: **martinsfantinelli@gmail.com**
 - 🏋️ I really like to practice sports at all, since 2004.
 - 💻 I'm studying Information Systems at UNISINOS.
